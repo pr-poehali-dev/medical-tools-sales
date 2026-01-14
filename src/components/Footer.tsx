@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="grid md:grid-cols-4 gap-8 mb-8">
           <div className="space-y-4">
             <div className="flex items-center gap-2">
-              <Icon name="Activity" className="h-6 w-6 text-primary" />
+              <Icon name="Microscope" className="h-6 w-6 text-primary" />
               <span className="text-xl font-bold">Диалмед</span>
             </div>
             <p className="text-sm text-muted-foreground">
