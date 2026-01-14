@@ -11,7 +11,7 @@ export default function Header({ onNavigate }: HeaderProps) {
       <div className="container flex h-16 items-center justify-between">
         <div className="flex items-center gap-2 cursor-pointer" onClick={() => onNavigate('hero')}>
           <Icon name="Activity" className="h-6 w-6 text-primary" />
-          <span className="text-xl font-bold">MedEquip</span>
+          <span className="text-xl font-bold">Диалмед</span>
         </div>
         
         <nav className="hidden md:flex items-center gap-6">

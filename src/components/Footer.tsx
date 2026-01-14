@@ -8,7 +8,7 @@ export default function Footer() {
           <div className="space-y-4">
             <div className="flex items-center gap-2">
               <Icon name="Activity" className="h-6 w-6 text-primary" />
-              <span className="text-xl font-bold">MedEquip</span>
+              <span className="text-xl font-bold">Диалмед</span>
             </div>
             <p className="text-sm text-muted-foreground">
               Профессиональное медицинское оборудование для клиник и медицинских учреждений
@@ -49,7 +49,7 @@ export default function Footer() {
         <div className="pt-8 border-t">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-sm text-muted-foreground">
-              © 2024 MedEquip. Все права защищены.
+              © 2024 Диалмед. Все права защищены.
             </p>
             <div className="flex items-center gap-4">
               <a href="#" className="text-muted-foreground hover:text-primary transition-colors">

@@ -37,7 +37,7 @@ export default function About() {
               </h2>
             </div>
             <p className="text-muted-foreground text-lg">
-              MedEquip — ведущий поставщик медицинского оборудования и инструментов 
+              Диалмед — ведущий поставщик медицинского оборудования и инструментов 
               с 15-летним опытом работы на российском рынке.
             </p>
             <p className="text-muted-foreground">
